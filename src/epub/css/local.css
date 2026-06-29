@@ -6,7 +6,7 @@ footer{
 	text-align: right;
 }
 
-p.observation{
+#chapter-19 p:nth-of-type(12){
 	display: table;
 	margin: auto;
 	text-align: initial;
