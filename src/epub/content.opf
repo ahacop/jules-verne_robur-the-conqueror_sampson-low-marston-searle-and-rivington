@@ -40,10 +40,10 @@
 		<meta id="collection-1" property="belongs-to-collection">Voyages Extraordinaires</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">30</meta>
-		<dc:description id="description">Robur, a domineering inventor, kidnaps members of a balloonist club and flies them around the world to prove the superiority of his heavier-than-air machine.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
-		</meta>
+		<meta property="schema:abstract">Robur, a domineering inventor, kidnaps members of a balloonist club and flies them around the world to prove the superiority of his heavier-than-air machine.</meta>
+		<dc:description>
+			DESCRIPTION
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3808</dc:source>
 		<dc:source>https://archive.org/details/clipperofclouds00vernrich</dc:source>
