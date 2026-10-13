@@ -1,0 +1,7 @@
+The base text is Project Gutenberg ebook #3808, transcribed from the American translation printed in The Works of Jules Verne, Volume 14 (New York: Vincent Parke, 1911); a page scan of that volume is at <https://archive.org/details/worksofjulesvern14vernuoft>. The British translation cited as a page-scan source above, The Clipper of the Clouds, is a separate translation that this edition follows as the authority for the text.
+
+Both source editions print the name of the Weldon Institute’s airship as the solid compound “Goahead”; the base transcription normalizes it to the hyphenated dictionary form “Go-Ahead,” which this edition retains as a modernization of obsolete typography.
+
+In recounting the fugitives’ return, the English edition gives dates that cannot be reconciled: they leave Auckland on September 20th but reach Philadelphia on the 27th, too few days for the trans-Pacific voyage and transcontinental railway. The American edition behind the base transcription removed these dates; this edition restores them from the English edition and preserves the inconsistency.
+
+At the South Pole both English editions give the length of the polar night as “a hundred and seventy-nine hours,” a quantity too short for the months-long antarctic night; the base transcription instead reads “a hundred and seventy-nine days,” restoring the unit of Verne’s original (“soixante-dix-neuf jours”) while keeping the translators’ altered number, and this edition retains that reading.
